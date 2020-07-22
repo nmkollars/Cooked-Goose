@@ -1,5 +1,5 @@
 # Cooked-Goose
-Data and code for project "Sequential disturbances alter the outcome of inter-genotypic interactions in a clonal plant", nicknamed "cooked goose"
+Data and code for project "Sequential disturbances alter the outcome of inter-genotypic interactions in a clonal plant", nicknamed "cooked goose".
 Under revision with the journal Functional Ecology
 
 R-script: "cookedgoose.analysis.R"
